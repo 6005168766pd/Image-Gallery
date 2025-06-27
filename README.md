@@ -1,2 +1,2 @@
-# Calculator
-Calculator with keyboard enhancement
+# Image-Gallery
+Responsive Image Gallery
